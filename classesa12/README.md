@@ -5,4 +5,6 @@ https://beta.gouv.fr/startups/classes12.html
 
 ![Classes à 12](classesa12.png?raw=true "Classes à 12")
 
+[![Classes à 12](classesa12.png?raw=true "Classes à 12")](https://jeremiecook.github.io/beta.gouv.fr-ux/classesa12/)
+
 [Voir le prototype](https://jeremiecook.github.io/beta.gouv.fr-ux/classesa12/)
