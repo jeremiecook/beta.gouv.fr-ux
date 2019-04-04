@@ -1,8 +1,14 @@
 # Beta Gouv - UX
 
-Ressources (Wireframes, sources Sketch, prototypes) des projets accompagnés chez [Beta Gouv](https://github.com/betagouv)
+Ressources (Sources Sketch, wireframes, prototypes) des projets accompagnés chez [Beta Gouv](https://github.com/betagouv)
 
-## Projets
+## Design Kit
+
+Bibliothèque d'éléments (formulaires, blocs, headers) constitué au fil des projets - [Design Kit](./designkit/)
+
+_Largement (mais librement) inspiré de [Template Data gouv](https://template.data.gouv.fr/)_
+
+## Tous les projets
 
 * [Code du travail numérique](./codedutravail/)
 * [A+](./aplus/)
@@ -11,12 +17,17 @@ Ressources (Wireframes, sources Sketch, prototypes) des projets accompagnés che
 * [Classe à 12](./classea12/)
 * [SignalConso](./signalconso/)
 * [Diagoriente](./diagoriente/)
-* [DossierSCO](./dossiersco/)
+* [Dossier SCO](./dossiersco/)
 
 
 ## Todo
+
+* [] Partager le Design kit
+* [] Retravailler les captures de chaque projet
+* [] Mettre à jour toutes les informations projets
 
 
 
 ## Changelog
 
+* 04/2019 : Initialisation du repo et dépôt des projets
