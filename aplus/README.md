@@ -3,6 +3,7 @@
 La communauté des A+ vous aide à résoudre les blocages administratifs.
 https://beta.gouv.fr/startups/aplus.html
 
-![Screenshot](screenshot.png?raw=true "Screenshot")
+* [Voir le prototype](https://jeremiecook.github.io/beta.gouv.fr-ux/aplus/)
+* [Télécharger le fichier source (sketch)](https://github.com/jeremiecook/beta.gouv.fr-ux/raw/master/aplus/aplus.sketch)
 
-[Voir le prototype](https://jeremiecook.github.io/beta.gouv.fr-ux/aplus/)
+![A+](aplus.png?raw=true "A+")
