@@ -11,12 +11,11 @@ _Largement (mais librement) inspiré de [Template Data gouv](https://template.da
 ## Tous les projets
 
 * [Classe à 12](./classe-a-12/)
+* [Mes aides](./mes-aides/)
 * [e-mjpm](./e-mjpm/)
 * [A+](./aplus/)
 
-
 * [Code du travail numérique](./codedutravail/)
-* [Mes aides](./mesaides/)
 * [SignalConso](./signalconso/)
 * [Diagoriente](./diagoriente/)
 * [Dossier SCO](./dossiersco/)
