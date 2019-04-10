@@ -12,7 +12,7 @@ _Largement (mais librement) inspiré de [Template Data gouv](https://template.da
 
 * [Code du travail numérique](./codedutravail/)
 * [A+](./aplus/)
-* [Mes aides](./mes-aides/)
+* [Mes aides](./mesaides/)
 * [e-mjpm](./e-mjpm/)
 * [Classe à 12](./classea12/)
 * [SignalConso](./signalconso/)

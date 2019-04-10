@@ -3,6 +3,6 @@
 Trouver rapidement le bon professionnel pour les majeurs à protéger
 https://beta.gouv.fr/startups/e-mjpm.html
 
-![Screenshot](screenshot.png?raw=true "Screenshot")
+[<img src="../docs/prototype.png?raw=true" width="160px" alt="Voir le prototype">](https://jeremiecook.github.io/beta.gouv.fr-ux/e-mjpm/)
 
-[Voir le prototype](https://jeremiecook.github.io/beta.gouv.fr-ux/e-mjpm/)
+![e-MJPM](e-mjpm.png?raw=true "e-MJPM")
