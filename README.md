@@ -10,24 +10,19 @@ _Largement (mais librement) inspiré de [Template Data gouv](https://template.da
 
 ## Tous les projets
 
+* [Code du travail numérique](./codedutravail/)
+* [e-mjpm](./e-mjpm/)
 * [Classe à 12](./classe-a-12/)
 * [Mes aides](./mes-aides/)
-* [e-mjpm](./e-mjpm/)
 * [A+](./aplus/)
-* [Code du travail numérique](./codedutravail/)
-
---
-
 * [SignalConso](./signalconso/)
-* [Diagoriente](./diagoriente/)
 * [Dossier SCO](./dossiersco/)
+* [Diagoriente](./diagoriente/) _- Work in progress_
 
 
 ## Todo
 
 * [ ] Partager le Design kit
-* [ ] Retravailler les captures de chaque projet
-* [ ] Mettre à jour toutes les informations projets
 
 
 
