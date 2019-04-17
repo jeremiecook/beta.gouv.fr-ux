@@ -17,6 +17,6 @@ _Largement (mais librement) inspiré de [Template Data gouv](https://template.da
 * [A+](./aplus/)
 * [SignalConso](./signalconso/)
 * [Dossier SCO](./dossiersco/)
-* [Diagoriente](./diagoriente/) _- Work in progress_
+* [Diagoriente](./diagoriente/)
 
 ## Todo
