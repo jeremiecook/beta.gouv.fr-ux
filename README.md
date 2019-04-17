@@ -19,13 +19,4 @@ _Largement (mais librement) inspiré de [Template Data gouv](https://template.da
 * [Dossier SCO](./dossiersco/)
 * [Diagoriente](./diagoriente/) _- Work in progress_
 
-
 ## Todo
-
-* [ ] Partager le Design kit
-
-
-
-## Changelog
-
-* 04/2019 : Initialisation du repo et dépôt des projets
