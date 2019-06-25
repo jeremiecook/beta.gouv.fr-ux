@@ -10,6 +10,7 @@ _Largement (mais librement) inspiré de [Template Data gouv](https://template.da
 
 ## Tous les projets
 
+* [Preuve de covoiturage](./preuve-de-covoiturage/)
 * [Code du travail numérique](./codedutravail/)
 * [e-mjpm](./e-mjpm/)
 * [Classe à 12](./classe-a-12/)
@@ -25,6 +26,7 @@ _Largement (mais librement) inspiré de [Template Data gouv](https://template.da
 
 ## Changelog
 
+* Juin 2019 - Nouveaux projets : * [Preuve de covoiturage](./preuve-de-covoiturage/)
 * Mai 2019 - Nouveaux projet : [Place des entreprises](./place-des-entreprises/)
 * Avril 2019 - Mise en ligne initiale. Projets : [Code du travail numérique](./codedutravail/), [e-mjpm](./e-mjpm/), [Classe à 12](./classe-a-12/), [Mes aides](./mes-aides/), [A+](./aplus/), [SignalConso](./signalconso/), [Dossier SCO](./dossiersco/), [Diagoriente](./diagoriente/) 
 
