@@ -7,7 +7,7 @@ Faciliter l'accès au droit du travail pour les employeur·e·s et les employé�
 
 * [Télécharger les Wireframes (Sketch)](https://github.com/jeremiecook/beta.gouv.fr-ux/raw/master/codedutravail/codedutravail.sketch)
 
-* [Télécharger l'UI (Figma)](https://github.com/jeremiecook/beta.gouv.fr-ux/raw/master/codedutravail/codedutravail.sketch)
+* [Télécharger l'UI (Figma)](https://github.com/jeremiecook/beta.gouv.fr-ux/raw/master/codedutravail/codedutravail.fig)
 
 
 ## Administration des contenus (CMS)
